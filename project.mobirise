@@ -1,0 +1,1533 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.8.3",
+    "uniqCompNum": 0,
+    "versionPublish": "3.8.3",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "publishType": "local",
+    "publishPath": "file:///D:/mobirise-free-win/m01%20project%20management"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/diana-eng-retroreflective-scarf-highres-191x128-18.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "M01 Project Management",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAHAP 3 M01</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KERTAS PENERANGAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KERTAS PENERANGAN 01</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">KERTAS PENERANGAN 02</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">KERTAS PENERANGAN 03</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KERTAS PENERANGAN 03</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FASA-FASA.html\">FASA-FASA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">012-9058385<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<span style=\"font-weight: normal;\">PENGENALAN</span>",
+          "text": "APPLIKASI INI ADALAH NOTA BAGI MODUL 01: PROJECT MANAGEMENT. IANYA MERANGKUMI 3 KERTAS PENERANGAN YANG BOLEH DIDAPATI MELALUI LINK/BUTTON DI ATAS.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LICK TO EDIT</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            ".mbr-section-title SPAN": {
+              "text-align": "left",
+              "font-size": "36px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title I": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016."
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/diana-eng-retroreflective-scarf-highres-191x128-18.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "M01 Project Management",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAHAP 3 M01</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KERTAS PENERANGAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KERTAS PENERANGAN 01</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">KERTAS PENERANGAN 02</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">KERTAS PENERANGAN 03</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KERTAS PENERANGAN 03</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FASA-FASA.html\">FASA-FASA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">012-9058385<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>PRA MESYUARAT</p><p>1.\tMenentukan agenda,tarikh,masa dan tempat mesyuarat bersama pengerusi jawatan kuasa.</p><p>2.\tMembuat tempahan bilik mesyuarat</p><p>&nbsp; - Maklumat bertulis yang perlu ada</p><p>- Nama jawatankuasa</p><p> &nbsp;-Nama pengerusi mesyuarat</p><p> &nbsp;- Nama setiausaha mesyuarat</p><p> - Tarikh,masa mula dan masa mesyuarat dijangka &nbsp; tamat</p><p>&nbsp;- \tBilangan anggota yang akan menghadiri mesyuarat</p><p> &nbsp;- Peralatan-peralatan yang diperlukan di dalam bilik mesyuarat</p><p> - &nbsp;Jenis minuman ringan yang diperlukan.</p><p>3.\tMenentukan kertas kerja untuk dibincangkan.</p><p>\tBilangan kertas kerja yang diperlukan.</p><p>\tKeperluan menyediakan ringkasan eksekutif jika kertas kerja melebihi 15 mukasurat.</p><p><span style=\"line-height: 2;\">4.\tMenghantar surat jemputan mesyuarat</span><br></p><p>Maklumat yang perlu ada dalam surat jemputan.</p><p> - Nama jawatankuasa</p><p> - Tarikh dan tempat mesyuarat</p><p> - Masa mula dan masa dijangka tamat</p><p> - Agenda mesyuarat</p><p> - Nama Pengerusi</p><p> - Jenis pakaian.</p><p>Agenda mesyuarat perlu disusun dalam bentuk berikut:</p><p>1. Perutusan Pengerusi</p><p> 2. Pengesahan minit mesyuarat yang lalu.</p><p> 3. Perkara-perkara berbangkit</p><p> 4. Pembentangan kertas kerja</p><p> 5. Hal-hal lain</p><p> 6. Penutup</p><p>5.\tMemastikan persediaan kemudahan-kemudahan bilik mesyuarat</p><p>\tMenentukan bilik mesyuarat dalam keadaan bersih</p><p>\tTempat duduk yang mencukupi disediakan dan jika perlu,menyediakan dan menyusun nama Pengerusi dan ahli-ahli yang akan hadir.</p><p>\tAlat pembesar suara disediakan dan berfungsi</p><p>\tAlat-alat tulis disediakan di atas meja.</p><p>\tOverhead projector dan peralatnnya disediakan jika perlu.</p><p>\tMenentukan semula tempahan minuman ringan telah dibuat.</p><p>6.\tMenentukan kehadiran</p><p>7.\tPerbincangan pra mesyuarat</p><p>8.\tMemberitahu ahli-ahli mesyuarat tentang etiket mesyuarat.</p><p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>SEMASA MESYUARAT</p><p>&nbsp;Catatan minit mesyuarat</p><p>Perkara-perkara yang direkod</p><p>\tSenarai kehadiran mesyuarat</p><p>\tPerkara-perkaara penting yang dibincangkan di dalam mesyuarat</p><p>\tKeputusan-keputusan yang dibuat</p><p>\tTindakan-tindakan susulan yang perlu diambil oleh syarikat/jabatan.</p><p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>SELEPAS MESYUARAT</p><p>1.\tPenyediaan minit</p><p>2.\tFormat minit mesyuarat</p><p>3.\tSusunan nama ahli-ahli mesyuarat</p><p>4.\tCatatan perbincangan</p><p>5.\tPengesanan maklumbalas perlaksanaankeputusan mesyuarat</p><p>6.\tRujuk lampiran</p><p>7.\tLaporan maklumbalas oleh urusetia.</p><p>8.\tMenentukan maklumbals dari syarikat/jabatan</p><p>9.\tPenyediaan laporan maklumbalas oleh syarikat/jabatan.</p><p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-4",
+          "_params": {
+            "count": 3,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": false,
+            "showName": false,
+            "showBio": false
+          },
+          "title": "PENGENALAN&nbsp;",
+          "subtitle": "Tujuan pengurusan mesyuarat adalah untuk membantu pihak pengurusan dan urusetia jawatankuasa tertentu menjalankan tanggungjawab yang ditugaskan dengan lebih sempurna dan cekap.",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".card-block P": {
+              "text-align": "left",
+              "font-size": "11px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-5",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/diana-eng-retroreflective-scarf-highres-191x128-18.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "M01 Project Management",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAHAP 3 M01</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KERTAS PENERANGAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KERTAS PENERANGAN 01</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">KERTAS PENERANGAN 02</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">KERTAS PENERANGAN 03</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KERTAS PENERANGAN 03</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FASA-FASA.html\">FASA-FASA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">012-9058385<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "INTRO",
+                "showText": true,
+                "text": "The human component in the design and production of multimedia materials is a large and therefore an important component. These type of projects very labour intensive, requiring the efforts of large numbers of knowledgeable, skilled, artistic, imaginative and creative people. Because of this, the importance of the human component is inordinately large in the project management process and, as such, it plays a significant part in the successful completion of any multimedia design and production project. The quality of the finished product depends on the best management of the human component.<br><br>The following is an outline of the important concepts involving the management of the human component in multimedia design and production projects.<br><br>Nature of projects from the human perspective: <br>•\tEach project is unique. <br>•\tEnd result often can not be determined at the beginning. <br>•\tConstant uncertainty. <br>•\tTemporary organizations. <br>•\tDiverse personnel. <br>•\tDirect control lacking. <br>•\tHuman relations skills important. <br>•\tPeople interface problems develop. <br>•\tCooperation necessary. <br>•\tTask oriented. <br>•\tPersonnel often change. <br>•\tLittle direct control the personnel. <br>•\tNo definite project boundaries. <br>•\tUnpredictability. <br>•\tLoose supervision and control.&nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "INTRO",
+                "showText": true,
+                "text": "Project Control: <br>•\tCommunications important. <br>•\tKeep perceptions of the project congruent amongst members. <br>•\tIndirect control. <br><br>Characteristics of the human component in multimedia projects includes: <br>•\tLarge numbers of workers. <br>•\tLabour intensive <br>•\tDivision of labour. <br>•\tIndependent work. <br>•\tDiffuse or loose control. <br>•\tVariety of tasks. <br>•\tSpecific knowledge and skills. <br>•\tArtistic and imaginative people. <br>•\tAbstract and creative personalities. <br><br>Important concepts in people management: <br>•\tMotivation. <br>•\tTeamwork. <br>•\tFlexibility. <br><br>Components of project management leadership: <br>•\tStructuring. <br>•\tCoaching. <br>•\tEncouraging. <br>•\tDelegating. <br><br>The project manager manages the human component to ensure: <br>•\tThe maintenance of project continuity. <br>•\tAdministration of change.<br>•\tMultidisciplinary approach. <br>•\tProject coordination and sequencing. <br>•\tScheduling. <br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "INTRO",
+                "showText": true,
+                "text": "Techniques in people management: <br>•\tInvolve people in planning. <br>•\tBuild commitment. <br>•\tBuild teamwork. <br>•\tParticipatory decision making. <br>•\tMinimize instruction. <br>•\tMinimize supervision. <br>•\tEstablish project team culture or norms. <br>•\tEstablish objectives. <br>•\tFoster cohesiveness. <br>•\tDevelop solidarity. <br>•\tEstablish a group mindset. <br>•\tWork for the benefit of the whole group. <br>•\tSet standards of behaviour. <br>•\tImplicit contract between all members of the team. <br><br>Participatory planning is good: <br>•\tExpands thinking. <br>•\tClarifies purposes. <br>•\tInvolves everyone. <br>•\tClarifies the image or attributes of the finished project for all. <br><br>Attributes of the effective group: <br>•\tEveryone agrees on the main objective. <br>•\tMembers perceive themselves as part of the group. <br>•\tOpen interaction between members. <br>•\tPeople are willing to embrace change.&nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "INTRO",
+                "showText": true,
+                "text": "Creating a good working and learning environment is important and achieved by: <br>•\tRewarding results not compliance. <br>•\tEncouraging initiative <br>•\tEmphasizing professionalism. <br>•\tProviding opportunities for individual advancement. <br>•\tProviding opportunities for individual fulfillment. <br><br>Building and maintaining good channels of communications to: <br>•\tAccess new information. <br>•\tEnsure there is little distortion. <br>•\tTo encourage active listening. <br>•\tTo assist in the early identification of problems. <br>•\tTo aid in the solution of problems. <br><br>Contrary to popular belief, there are some benefits to poor communications. They are: <br>•\tAvoids confrontation. <br>•\tSpeeds decision-making. <br>•\tMinimizes opposition. <br>•\tIncreases creativity. <br>•\tPreserves management mystique.&nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": false,
+                "videoUrl": "",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Chaos Theory In Project Management",
+                "showText": true,
+                "text": "This theory involves the management of projects in a non-linear way. This is in keeping with the new holistic paradigms. There are four elements for managing projects in the non-linear or chaotic framework. <br><br>Initial Area of Order <br>•\tThis should be as large as possible because everything will tend towards disorder. <br>•\tControl by negative feedback is possible to control a small amount of disorder. <br>•\tControl by positive feedback is more difficult but can be used to control a larger amount of disorder. <br><br>Learning Environment <br>•\tPeople embrace change if they are resilient, proactive and have a positive outlook.<br>•\tResults must be rewarded rather than just compliance with decisions. <br>•\tInitiative and risk taking must be encouraged as success breeds success. <br>•\tProfessionalism must be emphasized through offering opportunities for further training. <br><br>Channels of Communication <br>•\tImportant due to the fluid nature of both the organizations and the projects. <br>•\tDistortion should be minimized in order to avoid misunderstandings. <br>•\tAccess by all to new information helps determine choices available and leads to success. <br>•\tActive listening by the project manager must be reinforced through such things as hot lines. <br>•\tEncourage problem identification and solution at the lowest levels as it limits the size to which problems might grow and speeds up project completion.<br> <br>Evolution <br>•\tDon’t end the project, allow it to continue to evolve. <br>•\tMaintain continuity by keeping some portion of the development team involved on an ongoing basis in the finished project. <br>•\tAdminister constant change in order to avoid having to redo the entire project in order to update it in the future.&nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Managing Multimedia Design Projects",
+                "showText": true,
+                "text": "Producing effective Multimedia is a very challenging task which involves several people, several steps, a definite financial commitment, and normally a final product or deliverable. In other words, there are usually several steps and processes, which need to take place in order to successfully produce multimedia. <br><br>This section deals primarily with Project Management Techniques and the techniques are customized from the generic project management schema and used to design, develop, and produce multimedia products.<br><br>Multimedia Production involves a series of processes and it can be best described as a team effort. The Project Manager is the catalyst and coordinator of the project, managing all resources and overseeing the progress of the design and development team. <br><br>Some of the key people in multimedia development are the following:<br>•\tA project manager <br>•\tSubject matter experts <br>•\tContracted or in-house multimedia production expertise <br>•\tThe instructional designer <br>•\tThe writer (scripting and editing); <br>•\tCoordination of external resources such as on site location, content gathering, filming on site etc. <br>•\tVideo and audio technicians <br>•\tAdvertising, marketing, championing activities<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "The Project Manager",
+                "showText": true,
+                "text": "The project manager is the person who coordinates the entire development of the multimedia project and is ultimately the person responsible for quality of the final product, allocation of funds, and the time management of the project. In order to be a successful project manager of these \"multi-faceted\" activities, a clear understanding of the team's roles and responsibilities are essential. Additionally, a solid understanding of Project Management Techniques are also critical.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Key Activities of a Multimedia Project Manager&nbsp;",
+                "showText": true,
+                "text": "•\tCoordinates initial start up meetings between all parties; <br>•\tSchedules additional meeting throughout the project; <br>•\tClarify, publish, and communicate timelines and milestones (establish deadlines); <br>•\tBreakdown the allocation of tasks and ensure all agencies are aware of their schedule and responsibilities; <br>•\tMonitor the allocation of tasks and the use of resources; <br>•\tMonitor progress; <br>•\tManage the allocation of financial resources; <br>•\tEnsure quality control throughout the project and sign off the final deliverable; <br>•\tEvaluate the process and produce a project completion report; and <br>•\tMarket the final product; ensure the product reaches the target audience.&nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Subject Matter Experts (SME)&nbsp;",
+                "showText": true,
+                "text": "These people are critical to the validity of the content of the Multimedia. They should be used to provide content expertise advice toward the development of the product. SME's have a stake in the project because it will reflect their degree of expertise and knowledge. SME’s don’t always have to be the client, but certainly are involved in providing the technical expertise to the content.<br><br>It is critical that the project manager obtains a valid representative sample of SME's to use on the project. The quality of the content will only be as good as the SME's expertise.<br><br>The Project Manager must ensure that the SME's are available, understand their role, and most importantly be left to provide Subject Matter Expertise only. A wise Project Manager will keep the SME's involved at this level only, allowing them to focus on content, rather on the development of the Multimedia Product.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Contract or In-house Multimedia Production Expertise&nbsp;",
+                "showText": true,
+                "text": "&nbsp;•\tThis is an interesting area of project management because it will often be a choice and balancing act between quality, costs, time, and resources. As alluded to earlier, the cost of developing multimedia is very expensive and can range from of $10,000 to $50,000 per hour of instruction. Labour from 50 to 100 hours per hour of instruction. All you really need to know is that producing multimedia is an expensive endevour and you really need to be prudent with your decisions. <br><br>•\tIn-House vs. Contracted Multimedia Development will ultimately be the Project Manager choice. If you are interested in building in-house expertise, then developing a project in-house may be the way to go. On the other hand, if you are looking for quality and cost balance, then contracting out will be an area to investigate. <br><br>•\tPoint to consider: Most companies and corporations contract out the multimedia development. The advantage is you can select and evaluate a production company through the competitive bidding process, select the best company to do the job, contract, and then work close and hard with then through the life of the project to maximize the potential for an excellent final product.&nbsp;<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "The Instructional Designer",
+                "showText": true,
+                "text": "The instructional designer is a very critical key to success for effective multimedia development. All multimedia geared towards creating a dynamic, effective learning environment must have legitimate and sound instruction design and strategy built into the program. The instructional designer or design team can consist of people from either in-house, contract, or combination of both.<br><br>The Instructional Designer is Critical Because: <br><br>•\tProvides the advice on effective and efficient learning strategies <br>•\tCan work with the SME’s to breakdown the content and organize it into reasonable chunks <br>•\tCan design effective learning strategies and build them into the multimedia project <br>•\tUnderstand how to organize, manage, and deliver information to create an effective learning environment <br>•\tDevelops introductions, main content body, review, application, an motivational segments of the multimedia project <br>•\tUnderstands the target audience and designs the level of learning appropriate to their needs <br>•\tUnderstands the key components of effective multimedia development and delivery and ensures this built into the project. <br>•\tDoes research without agencies to acquire additional resources and references <br>•\tGives a logical and structured format to the design decision throughout the development of the project <br>•\tCan evaluate the final \"pilot\" product and make necessary adjustments to fine-tune the effectiveness of the multimedia<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-8",
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "12px"
+            },
+            "H2": {
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/diana-eng-retroreflective-scarf-highres-191x128-18.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "M01 Project Management",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAHAP 3 M01</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KERTAS PENERANGAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KERTAS PENERANGAN 01</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">KERTAS PENERANGAN 02</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">KERTAS PENERANGAN 03</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KERTAS PENERANGAN 03</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FASA-FASA.html\">FASA-FASA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">012-9058385<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016."
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Konsep Utama Dalam Pengurusan Projek Multimedia",
+          "text": "▪ Konsep Projek<br>▪ Konsep Projek Multimedia<br>▪ Konsep Pengurusan Projek Multimedia<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Konsep Projek",
+                "showText": true,
+                "text": "1. Projek, menurut kamus Dewan Bahasa dan Pustaka bermaksud rancangan pembangunan.<br><br>2. Pembangunan pula bermaksud perihal membina, membentuk, memajukan sesuatu unruk mencapai kemajuan, perkembangan dan sebagainya.<br><br>3. Projek juga merupakan suatu proses pembangunan yang unik serta memerlukan usaha serta sumber bagi mencapai dapatan yang dikehendaki dalam tempoh masa serta kos yang ditetapkan.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Konsep Projek Multimedia",
+                "showText": true,
+                "text": "1. Projek multimedia secara semulajadinya merupakan suatu disiplin ilmu yang menyeluruh dan biasanya melibatkan kumpulan kerja yang ramai bagi menghasilkannya.<br><br>2. Projek multimedia juga melibatkan banyak sumber, faktor, masa pembangunan yang panjang dan juga melibatkan media penyebaran yang pelbagai bentuk.<br><br>3. Konsep interaktiviti dalam multimedia memerlukan kombinasi aktiviti serta pelbagai keperluan lain yang biasanya tidak ditemui dalam kebanyakan projek yang lain.<br><br>4. Projek multimedia bukan sahaja memerlukan suatu sistem pengurusan aplikasi atau sumber seperti skrip, papan cerita, media, pengaturcaraan dan sebagainya malah ianya juga melibatkan proses pemantauan terhadap manusia, masa, kewangan dan banyak lagi<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Konsep Pengurusan Projek Multimedia",
+                "showText": true,
+                "text": "1. Pengurusan menurut kamus Dewan Bahasa dan Pustaka bermaksud perihal kerja, menguruskan sesuatu, perihal menjaga supaya rapi, mengatur, mengemaskan, menyusun syarikat, badan-badan perniagaan dan lain-lain.<br><br>2. Berdasarkan kepada maksud istilah yang dinyatakan, dapatlah dinyatakan bahawa pengurusan projek dalam pembangunan perisian multimedia merupakan satu sistem pengurusan dan prosedur di mana cara, perlaksanaan, teknologi, kepakaran dan pengalaman digabungkan bersama dalam suatu proses membangunkan sesebuah perisian multimedia.<br><br>3. Pengurusan projek yang berkesan mampu mengurangkan risiko kegagalan dan juga bagi memastikan keadaan di mana masa dan kos yang berlebihan dapat dielakkan.<br><br>4. Pengurusan projek dalam pembangunan perisian multimedia adalah sedikit berbeza dengan pengurusan projek secara umum. Pengurusan projek multimedia adalah lebih kompleks dan amat berorientasikan tugas. la juga memerlukan perancangan yang lebih mendalam, jelas dan juga memerlukan kuasa kawalan yang lebih tinggi.<br><br>5. Pengurusan projek multimedia juga boleh dikatakan sebagai suatu proses mengawal fasa kerja di mana setiap unit projek harus melepasi aras yang ditetapkan bagi menjamin kejayaan projek yang dilaksanakan.<br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-c",
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "FASA-FASA.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-d",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/diana-eng-retroreflective-scarf-highres-191x128-18.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "M01 Project Management",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAHAP 3 M01</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KERTAS PENERANGAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KERTAS PENERANGAN 01</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">KERTAS PENERANGAN 02</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">KERTAS PENERANGAN 03</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KERTAS PENERANGAN 03</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FASA-FASA.html\">FASA-FASA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">012-9058385<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-e",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016."
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-g",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "lightbulb",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "FASA 1",
+          "subtitle1": "",
+          "caption1": "Definisi dan Perancangan Definisi",
+          "button1": "<a data-app-btn=\"true\" href=\"fasa 1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "camera",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "FASA 2",
+          "subtitle2": "<br>Pelaksanaan Projek<br><br>",
+          "caption2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"FASA 2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "FASA 3",
+          "subtitle3": "",
+          "caption3": "Penilaian",
+          "button3": "<a data-app-btn=\"true\" href=\"fasa 3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        }
+      ]
+    },
+    "fasa 1.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-h",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/diana-eng-retroreflective-scarf-highres-191x128-18.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "M01 Project Management",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAHAP 3 M01</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KERTAS PENERANGAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KERTAS PENERANGAN 01</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">KERTAS PENERANGAN 02</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">KERTAS PENERANGAN 03</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KERTAS PENERANGAN 03</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FASA-FASA.html\">FASA-FASA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">012-9058385<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>A. DEFINISI</p><p><br></p><p>Dalam fasa ini, pemberian definisi secara khusus terhadap jenis projek yang ingin dilaksanakan. Ia penting bagi memastikan projek yang ingin dilaksanakan mempunyai hala tuju yang ditetapkan serta penetapan sempadan-sempadan yang membolehkan fokus projek adalah lebih bertumpu..</p>",
+          "text2": "B. PERANCANGAN<p><br></p><p>Dalam fasa ini, semua keperluan yang utama perlu ditetapkan bagi menghasilkan suatu perancangan yang baik dan berkesan. Setiap tugas, aktiviti, sumber, kekangan dan sebagainya yang perlu bagi menyernpurnakan sesebuah projek perlulah dirancang atau ditetapkan terlebih dahulu.&nbsp;</p><p><br></p><ol><li>Tenaga kerja, individu mahupun kumpulan kerja yang berkemahiran dalam menyempuraakan tugas-tugas yang ditetapkan perlu dikenalpasti.&nbsp;</li><li>Susun atur tugas serta bilakah setiap tugas tersebut perlu disempurnakan bagi membolehkan perancangan yang rapi dapat dijalankan dan seterusnya menghasilkan suatu perancangan kerja yang lebih berkesan perlu diketahui.</li><li>&nbsp;Bagi memastikan sesebuah projek yang dilaksanakan berjaya, sumber-sumber yang menyokongnya juga perlu ditentukan terlebih dahulu dengan jelas.&nbsp;</li><li>Dalam pembangunan sesebuah projek multimedia misalnya, tenaga manusia, kewangan, peralatan dan strategi penyebaran dan pemasaran merupakan antara sumber-sumber sokongan yang perlu diberi perhatian yang sewajarnya. Setiap sumber ini memerlukan tempoh masa yang tertentu dan setiap kelewatan atau ketidakprihatinan terhadap salah satu daripadanya akan menjejaskan projek secara keseluruhan.</li></ol><p><br></p>",
+          "text3": "<p>5. Tujuan utama proses perancangan adalah &nbsp;bagi menyediakan suatu rangka kajian yang membolehkan seseorang pengurus membuat anggaran dalam pelbagai aspek seperti sumber, kos dan jadual kerja dan sebagainya yang bersesuaian.&nbsp;</p><p><br></p><p>6. Sebaik sahaja sesuatu perancangan disahkan untuk diterima pakai, ianya akan menjadi asas rangka kerja bagi memantau, mengawal dan menilai kemajuan sesuatu projek.&nbsp;</p><p><br></p><p>7. Dalam fasa perancangan juga, ramalan tentang masalah-masalah yang mungkin timbul perlu diambil perhatian dan kemudiannya menyediakan penyelesaian alternatif bagi masalah tersebut.</p><p>&nbsp;</p><p>8. Antara aktiviti utama yang sering dilakukan semasa proses perancangan adalah:</p><p>▪ Menentukan objektif dan matlamat</p><p>▪ Membina polisi projek</p><p>▪ Membuat penilaian risiko</p><p>▪ Menentukan beberapa alternatif pembangunan.</p><p>▪ Menetapkan prosedur dan peraturan</p><p>▪ Menyediakan rancangan projek</p><p>▪ Menyediakan belanjawan proj ek</p><p>▪ Menyediakan dokumen perancangan</p>"
+        }
+      ]
+    },
+    "FASA 2.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-l",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/diana-eng-retroreflective-scarf-highres-191x128-18.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "M01 Project Management",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAHAP 3 M01</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KERTAS PENERANGAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KERTAS PENERANGAN 01</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">KERTAS PENERANGAN 02</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">KERTAS PENERANGAN 03</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KERTAS PENERANGAN 03</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FASA-FASA.html\">FASA-FASA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">012-9058385<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-o",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>1. Pembentukan kumpulan kerja</p><p> </p><p><br></p><ol><li>Membolehkan sesebuah  projek pembangunan dilaksanakan.</li><li>Kumpulan kerja yang bersesuaian perlu dibentuk terlebih dahulu. Setiap ahli dalam kumpulan kerja ini kemudiannya perlu ditetapkan bidang tugas masing-masing.&nbsp;</li><li>Kepentingan pembentukan kumpulan kerja adalah bagi memastikan ia tidak bertindih antara satu sama lain ataupun kemungkinan berlakunya kekurangan tenaga mahir dalam bidang tertentu apabila diperlukan kelak.</li></ol><p>&nbsp;</p><p><br></p>",
+          "text2": "<p>2. Penetapan peranan  serta tanggungjawab</p><p><br></p><ol><li>Setiap ahli dalam kumpulan kerja perlu jelas dengan peranan serta tanggunjawab mereka dalam memastikan projek yang dilaksanakan akan berjaya.&nbsp;</li><li>Setiap ahli juga perlu dibekal atau disediakan dengan sumber-sumber yang diperlukan bagi tujuan pembangunan projek sama ada dari segi fizikal, mental, rohani dan sebagainya.&nbsp;</li><li>Penetapan matlamat serta masa yang diperuntukkan bagi setiap tugas yang diamanahkan juga perlu diperjelaskan bagi mengelakkan sebarang masalah dikemudian hari.</li></ol><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>3. Pengawalan dan pemantauan perjalanan projek</p><p><br></p><ol><li>Semua aktiviti pengurusan, perlu dikumpul serta dianalisa. Ia bertujuan untuk memastikan sesuatu  projek berjalan seperti yang telah dirancang.&nbsp;</li><li>Setiap aktiviti yang menyimpang dari perancangan asal perlu diberi perhatian dan tindakan pembetulan akan diambil untuk memastikan objektif asal dapat dicapai.&nbsp;</li><li>Pengawalan dalam pengurusan projek merujuk kepada satu sistem yang memberi maklum balas tentang kemajuan sesebuah projek.&nbsp;</li><li>Antara aktiviti penting dalam proses pengawalan ialah menetapkan piawaian pencapaian supaya seseorang pengurus boleh membuat perbandingan antara pencapaian sebenar dengan piawaian yang  telah ditetapkan.</li><li>Sistem pemantauan dan laporan juga perlu dilaksanakan untuk mengawal pembangunan sesebuah projek.&nbsp;</li><li>Setiap tugas atau aktiviti yang dilaksanakan bagi tujuan pembangunan projek perlu sentiasa melalui proses pemantauan secara konsisten. Ia bertujuan bagi memastikan ianya sentiasa mengikut penetapan yang telah ditetapkan sama ada dari segi kualiti, tempoh masa, konsep dan sebagainya.&nbsp;</li><li>Hasil kerja juga perlu diukur dan dianalisis dengan membuat perbandingan di antara pencapaian semasa dengan piawaian, matlamat dan perancangan yang telah ditetapkan pada peringkat awal.</li></ol><p><br></p>",
+          "text2": "<p>4. Menetapkan tempoh masa perlaksanaan.</p><p><br></p><ol><li>Menetapkan jadual kerja serta tempoh masa yang diperuntukkan bagi setiap tugas secara jelas perlu diberikan keutamaan.&nbsp;</li><li>Jadual kerja yang dibentuk juga seharusnya dapat menunjukkan setiap fasa utama dalam perlaksanaan projek seperti masa bermula, masa perlaksanaan, masa selesai dan sebagainya. Ini bagi memastikan setiap ahli dalam pembangunan projek sentiasa peka terhadap tempoh masa yang diperuntukkan.</li></ol><p><br></p>"
+        }
+      ]
+    },
+    "fasa 3.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#faaf40"
+            },
+            ".link, .dropdown-item": {
+              "color": "#faaf40"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#faaf40",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#faaf40"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-q",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#faaf40",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "assets/images/diana-eng-retroreflective-scarf-highres-191x128-18.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "M01 Project Management",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAHAP 3 M01</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">UTAMA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">KERTAS PENERANGAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">KERTAS PENERANGAN 01</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">KERTAS PENERANGAN 02</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">KERTAS PENERANGAN 03</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page3.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">KERTAS PENERANGAN 03</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"FASA-FASA.html\">FASA-FASA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">012-9058385<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-s",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>A. PENILAIAN FORMATIF</p><p><br></p><p>Penilaian formatif antaranya termasuklah:</p><ul><li>Dilakukan sepanjang proses pembangunan</li><li>Proses melihat halangan-halangan yang tidak dijangkakan dalam proses pembangunan, </li><li>Perubahan dalam kehendak pengguna,&nbsp;</li><li>Masalah-masalah yang dihadapi oleh pengguna dalam menggunakan perisian dan sebagainya.&nbsp;</li><li>Penilaian formatif bertujuan untuk menjamin produk dapat memenuhi citarasa pengguna serta memenuhi objektif pembangunan yang diinginkan.</li></ul><p><br></p>",
+          "text2": "<p>B. PENILAIAN SUMATIF</p><p><br></p><ul><li>Biasanya dilakukan dihujung proses pembangunan</li><li>Penilaian sumatif bertujuan untuk mengetahui apa yang baik dan kurang baik tentang perisian tersebut, dan kemudian memaklumkan kepada pembina perisian atau pengguna, aspek-aspek yang perlu diubah atau dikekalkan dalam versi seterusnya dan kelebihan dan kekurangan produk berbanding produk perisian yang lain.</li></ul>"
+        }
+      ]
+    }
+  }
+}
